@@ -1,0 +1,122 @@
+.App{
+    margin-left: 0.6%;
+}
+
+.card-container{
+  display: flex;
+  margin-left: 1%;
+}
+
+.recommendtitle{
+    font-family: sans-serif;
+    margin-left: 110px;
+    margin-bottom: 40px;
+}
+
+
+.listtitle{
+    margin-left: 7%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-size: 35px;
+    color: rgb(67, 67, 67);
+}
+
+.notlogged {
+  font-size: larger;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  font-weight: bolder;
+  color: rgb(67, 67, 67);
+}
+
+
+.welcomemessage{
+    position: absolute;
+    top:250px;
+    left: 620px;
+    font-family: monospace;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+
+
+
+.homepageposter1{
+    background-image: url('https://www.creativefabrica.com/wp-content/uploads/2022/05/17/Futuristic-Red-Blue-Background-Design-Graphics-30683310-1.jpg');
+    width: 98.9vw; 
+    margin-top: -29px;
+    height: 65vh; 
+    margin-left: -8px;
+    margin-bottom: -50px;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 1250px auto;
+    margin-bottom: 130px;
+}
+
+
+
+
+
+.homepageposter{
+    background-image: url('https://www.wallpaperflare.com/static/735/898/350/batman-dark-knight-poster-wallpaper.jpg');
+    width: 98.9vw; 
+    margin-top: -29px;
+    height: 65vh; 
+    margin-left: -8px;
+    margin-bottom: -50px;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 1250px auto;
+}
+
+.Top-rated{
+    margin-left: 7%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    color: rgb(67, 67, 67);
+}
+
+.gener-{
+    display: flex;
+}
+
+.title-{
+    margin-left: 7%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    color: rgb(255, 0, 0);
+}
+
+.Genres{
+    font-size: 50px;
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(67, 67, 67);
+    margin: 6x;
+}
+
+.filterres{
+    width: 100%;
+    display: flex;
+}
+
+.ac{
+    color: rgb(0, 117, 150);
+}
+
+.ro{
+    color: rgb(243, 31, 31);
+}
+
+.co{
+  color: rgb(167, 156, 0);
+ }
+
+.th{
+    color: black;
+ }
